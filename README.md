@@ -1,4 +1,4 @@
-# Bitcoin Fear & Greed vs Hyperliquid Trader Performance Analysis
+# Trader Performance vs Market Sentiment
 
 ## Overview
 This project is an end-to-end analytics workflow designed to study the relationship between **Bitcoin market sentiment (Fear & Greed Index)** and **Hyperliquid trader performance**. By combining sentiment data with historical trading activity, the project uncovers how trader behavior changes under different market conditions and predicts profitable trades using machine learning.
