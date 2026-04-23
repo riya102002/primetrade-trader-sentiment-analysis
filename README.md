@@ -27,6 +27,18 @@ The project is structured in a professional GitHub-ready format with datasets, c
 - Scikit-learn
 
 ---
+## Project Structure
+
+```text
+primetrade-trader-sentiment-analysis/
+│── Riya_Kesharwani_Primetrade_Assignment.ipynb
+│── README.md
+│── historical_data.csv
+│── fear_greed_index.csv
+│── charts/
+```
+---
+
 
 ## Key Features
 
