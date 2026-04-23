@@ -107,6 +107,11 @@ analysis.ipynb
 
 ## Sample Visualizations
 Stored inside the charts folder:
+```bash
+/charts
+```
+
+
 
 - PnL Distribution
 - Correlation Heatmap
