@@ -151,7 +151,7 @@ Riya Kesharwani
 
 ---
 
-## License
+## Use
 This project was developed as part of the Primetrade.ai internship assignment and is shared for portfolio demonstration purposes.
 
 
