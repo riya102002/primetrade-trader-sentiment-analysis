@@ -148,7 +148,8 @@ Riya Kesharwani
 ---
 
 ## License
-This project is for educational and portfolio purposes.
+This project was developed as part of the Primetrade.ai internship assignment and is shared for portfolio demonstration purposes.
+
 
 
 
