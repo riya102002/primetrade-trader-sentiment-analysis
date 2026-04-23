@@ -132,6 +132,10 @@ Stored inside the charts folder:
 - Trade Frequency Trends
 
 ---
+## Sample Output
+
+![PnL Chart](charts/pnl_by_sentiment.png)
+
 
 ## Future Improvements
 - Use XGBoost / LightGBM for better accuracy.
