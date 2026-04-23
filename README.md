@@ -5,7 +5,6 @@ This project is an end-to-end analytics workflow designed to study the relations
 
 The project is structured in a professional GitHub-ready format with datasets, charts, notebooks, and documentation for easy reproducibility.
 
----
 
 ## Objectives
 - Analyze how Bitcoin Fear & Greed sentiment impacts trading performance.
@@ -15,7 +14,6 @@ The project is structured in a professional GitHub-ready format with datasets, c
 - Predict profitable trades using machine learning.
 - Deliver business recommendations for retention, monetization, and risk control.
 
----
 
 ## Tech Stack
 - Python
@@ -26,7 +24,6 @@ The project is structured in a professional GitHub-ready format with datasets, c
 - Seaborn
 - Scikit-learn
 
----
 ## Project Structure
 
 ```text
@@ -37,7 +34,6 @@ primetrade-trader-sentiment-analysis/
 │── fear_greed_index.csv
 │── charts/
 ```
----
 
 
 ## Key Features
@@ -76,7 +72,6 @@ Clustered users into trading archetypes such as:
 - High-Frequency Traders
 - Opportunistic Traders
 
----
 
 ## Installation & Setup
 
@@ -98,7 +93,6 @@ jupyter notebook
 analysis.ipynb
 ```
 
----
 ## Results & Insights
 
 ### Market Sentiment Impact
@@ -115,7 +109,6 @@ analysis.ipynb
 - Introduce risk alerts during extreme greed periods.
 - Personalize trader dashboards by segment.
 
----
 
 ## Sample Visualizations
 Stored inside the charts folder:
@@ -131,7 +124,6 @@ Stored inside the charts folder:
 - Trader Segmentation Plot
 - Trade Frequency Trends
 
----
 ## Sample Output
 
 ![PnL Chart](charts/trader_segmentation.png)
@@ -144,12 +136,10 @@ Stored inside the charts folder:
 - Dashboard using Streamlit / Power BI.
 - Portfolio optimization engine.
 
----
 
 ## Author
 Riya Kesharwani
 
----
 
 ## Use
 This project was developed as part of the Primetrade.ai internship assignment and is shared for portfolio demonstration purposes.
