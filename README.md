@@ -31,7 +31,7 @@ The project is structured in a professional GitHub-ready format with datasets, c
 
 ```text
 primetrade-trader-sentiment-analysis/
-│── Riya_Kesharwani_Primetrade_Assignment.ipynb
+│── Analysis.ipynb
 │── README.md
 │── historical_data.csv
 │── fear_greed_index.csv
