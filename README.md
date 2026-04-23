@@ -134,7 +134,7 @@ Stored inside the charts folder:
 ---
 ## Sample Output
 
-![PnL Chart](charts/pnl_by_sentiment.png)
+![PnL Chart](charts/trader_segmentation.png)
 
 
 ## Future Improvements
