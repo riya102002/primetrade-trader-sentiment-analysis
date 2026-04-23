@@ -1,4 +1,4 @@
-# Trader Performance vs Market Sentiment
+# Trader Sentiment Analysis
 
 ## Overview
 This project is an end-to-end analytics workflow designed to study the relationship between **Bitcoin market sentiment (Fear & Greed Index)** and **Hyperliquid trader performance**. By combining sentiment data with historical trading activity, the project uncovers how trader behavior changes under different market conditions and predicts profitable trades using machine learning.
@@ -70,8 +70,8 @@ Clustered users into trading archetypes such as:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/bitcoin-fear-greed-analysis.git
-cd bitcoin-fear-greed-analysis
+git clone https://github.com/your-username/primetrade-trader-sentiment-analysis.git
+cd primetrade-trader-sentiment-analysis
 ```
 ### 2. Install Dependencies
 ```bash
